@@ -1,0 +1,3 @@
+repository "Camioneros2/Camioneros2@4674058857238@cloud"
+  path "/"
+    smartbranch "/main/Memo"
